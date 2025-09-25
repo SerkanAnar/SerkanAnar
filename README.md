@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Serkan👋</h1>
-<h3 align="center">I am a fourth year engineering student in Computer Science at KTH, Royal Institute of Technology.</h3>
+<h3 align="center">I am a fifth year engineering student in Computer Science at KTH, Royal Institute of Technology.</h3>
 
-- 🌱 I’m currently learning **Deep Learning and Language Engineering**
+- 🌱 I’m currently learning **Artificial Neural Networks**
 
 - 📫 How to reach me **serkan.anar24@gmail.com**
 
